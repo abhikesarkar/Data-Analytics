@@ -1,1 +1,1 @@
-# Data-Analytics work is uploaded in folders
+# Data-Analytics work is uploaded in respective folders
